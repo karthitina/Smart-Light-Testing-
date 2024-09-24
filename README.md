@@ -12,3 +12,6 @@ and compatibility testing.
 - `setup/`: Information on how to set up the test environment.
 - `logs/`: Detailed logs from the test runs.
 - `images/`: Diagrams or screenshots showing the setup and test
+## Getting Started
+Follow the instructions in the `setup/` folder to recreate the test
+environment.

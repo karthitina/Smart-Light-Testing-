@@ -1,6 +1,6 @@
 # Smart-Light-Testing-Manual 
 ## Overview
-The Smart Light system is an advanced lighting solution that integrates network connectivity and automation to enhance control and energy efficiency. 
+The Smart Light system is an advanced lighting solution that integrates network connectivity and automation to enhance control and energy efficiency.Some of the functionalities are Remote Control,Voice Control,Automation and Scheduling,Energy Efficiency,Customization,Motion Sensors and Integration with Smart Home Systems.
 ## Features Tested
 - Functional Testing: Basic operations and controls.
 - Boundary Testing: Edge cases and limits.

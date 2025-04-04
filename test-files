@@ -2,6 +2,13 @@ Hardware Setup:
 o Smart Light Device
 o RP2040 Microcontroller
 o Power Supply
- Software Setup:
+
+Software Setup:
 o Firmware and Software for Smart Light
 o Testing Software or Tools
+
+Document Results:
+o For each test case, record the results and any issues found.
+
+Log Files:
+o Save and document logs of test runs for reference.

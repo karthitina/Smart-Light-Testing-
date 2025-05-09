@@ -14,4 +14,4 @@ Objective: Ensure the light reaches the minimum brightness setting.
 Steps:
 1. Set brightness to the minimum level.
 2. Verify the light is at its dimmest.
-Expected Result: Light is at minimum brightness.
+Expected Result: Light is at minimum brightness
